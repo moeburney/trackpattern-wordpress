@@ -74,10 +74,10 @@ function fs_spacer() {
 }
 add_shortcode("spacer", "fs_spacer");
 
-function fs_blog_post_image($atts, $content = null) {
-	return '<div class="blog_img"><img src="'.get_template_directory_uri().'/scripts/timthumb.php?src='.$content.'&h=150&w=584&zc=1" alt="" /></div>';
-}
-add_shortcode("post_image", "fs_blog_post_image");
+//function fs_blog_post_image($atts, $content = null) {
+//	return '<div class="blog_img"><img src="'.get_template_directory_uri().'/scripts/timthumb.php?src='.$content.'&h=150&w=584&zc=1" alt="" /></div>';
+//}
+//add_shortcode("post_image", "fs_blog_post_image");
 
 function fs_homepage_feature($atts, $content = null) {
 	extract(shortcode_atts(array(
