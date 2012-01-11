@@ -41,7 +41,7 @@
 		<div class="page">
 			<a href="<?php echo get_option('home'); ?>" class="logo">
 				<?php if(!get_option('fs_logo')) { ?>
-					<img src="<?php echo bloginfo('template_url'); ?>/images/logo.jpg" alt="<?php bloginfo('name'); ?>" /><?php
+					<img src="<?php echo bloginfo('template_url'); ?>/images/logo.png" alt="<?php bloginfo('name'); ?>" /><?php
 				 }else{ ?>
 					<img src="<?php echo get_option('fs_logo'); ?>" alt="<?php bloginfo('name'); ?>" /><?php 
 				 } ?>
