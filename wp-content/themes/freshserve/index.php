@@ -83,7 +83,7 @@
 			
 
 			<side-item><span class="sideform">
-		<form id="subForm-side" action="http://www.aweber.com/scripts/addlead.pl" class="subForm-side">
+		<form id="subForm-side" action="http://www.aweber.com/scripts/addlead.pl" method="post" class="subForm-side">
 		<h2>Try Trackpattern For Free </h2> 
 
 	<p>Sign up now and we'll help you collect your data and give you as many free hours of consultation as you need. This won't be available to users that sign up later.  </p>
@@ -268,11 +268,10 @@ Not to mention, you spend your energy on lots of expensive, time-consuming activ
 		</div>
 		<div class="clear"></div>
 	</div>
-	<form action="" method="post" action="http://www.aweber.com/scripts/addlead.pl" id="subForm">
+	<form method="post" action="http://www.aweber.com/scripts/addlead.pl" id="subForm">
   		  <h2>
     		  Sign up as one of the first users of Trackpattern<br>
-		  <br />
-		  and get it for free, plus consultations. 
+		  and get it for free. 
    		 </h2>
 		 <input type="hidden" name="listname" value="trackpattern" />
    		 <input type="email" name="email" placeholder="Enter your email" id="email">
