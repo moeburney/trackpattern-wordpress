@@ -102,7 +102,7 @@
 			</h2>
 			<br/>
 			
-			<ul style="width:480px;">
+			<ul id="actionlist" style="width:480px;">
 			
 			<li>
 			Know the top 20% of your customers: the awesome ones that will buy more of your stuff, give you more referrals, spread your brand, and grow your business. 
