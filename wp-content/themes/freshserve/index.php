@@ -86,7 +86,7 @@
 		<form id="subForm-side" action="http://www.aweber.com/scripts/addlead.pl" class="subForm-side">
 		<h2>Try Trackpattern For Free </h2> 
 
-	<p>Sign up now as a first user and we'll help you collect your data and show you in a detailed way how you can increase your profits. This one-on-one attention won't be available to users that sign up later.  </p>
+	<p>Sign up now and we'll help you collect your data and give you as many free hours of consultation as you need. This won't be available to users that sign up later.  </p>
 		 <input type="hidden" name="listname" value="trackpattern" />
    		 <input type="email" name="email" placeholder="Enter your email" id="email">
 		<input type="hidden" name="redirect" value="http://www.trackpattern.com" />
@@ -156,11 +156,11 @@ Not to mention, you spend your energy on lots of expensive, time-consuming activ
 			
 			<h2>You could be making more money with less time</h2>
 			
+			<side-item><span class="stat">You want to apply what you've learned from the marketing gurus about customer relationships...<br /> <br /> ...the stuff that Seth Godin, Naomi Dunford, and Sonia Simone write about on their blogs. <br /><br />Trackpattern is software that lets you directly apply those principles to your biz. </span></side-item>
 			<p>
 			The way you're doing things now -- you may be surviving. You may even be growing. But you're not making nearly as much money as you could be. And you're spending way too much time and money in the wrong areas. After all, the point of your small biz was to make a growing income doing what you love, without stressing yourself out. Right?
 			</p>
 			
-			<side-item><span class="stat">You want to apply what you've learned from the marketing gurus about customer relationships...<br /> <br /> ...the stuff that Seth Godin, Naomi Dunford, and Sonia Simone write about on their blogs. <br /><br />Trackpattern is software that lets you directly apply those principles to your biz. </span></side-item>
 			<p>
 			As the marketing experts would tell you, you need to improve your ROI -- your Return On Investment. 
 			</p>
@@ -173,6 +173,7 @@ Not to mention, you spend your energy on lots of expensive, time-consuming activ
 			You know, the rule that we hear in marketing all the time: 80% of the results come from 20% of your stuff.  80% of your business comes from 20% of the customers. 80% of your profit comes from the top 20% of your products and services.
 			</p>
 			
+			<side-item><span class="stat">You have a life outside of work. You want to spend less time doing the painful marketing stuff.  <br/><br/>Trackpattern will help you get your life back without sacrificing your income. By showing you the most important (and least important) clients, customers, and products so you can cut the fat from your biz and focus on doing what you love. </span></side-item>
 			<p>
 			But figuring out that 20% -- the right 20% -- is not easy.
 			</p>
@@ -195,7 +196,6 @@ Not to mention, you spend your energy on lots of expensive, time-consuming activ
 			How?
 			</p>
 			
-			<side-item><span class="stat">You have a life outside of work. You want to spend less time doing the painful marketing stuff.  <br/><br/>Trackpattern will help you get your life back without sacrificing your income. By showing you the most important (and least important) clients, customers, and products so you can cut the fat from your biz and focus on doing what you love. </span></side-item>
 			<p>
 			You break up your customers into segments based on their behaviors. You gain insight into what they want or how much they are open to buying. Then you take action based on that.
 			</p>
@@ -204,6 +204,7 @@ Not to mention, you spend your energy on lots of expensive, time-consuming activ
 			For example, your top 20% top of buyers who have bought in the past 3 months is one segment of your customers: your GOLD customers.
 			</p>
 			
+			<side-item><span class="stat">You want to make a certain income, but you're not there yet. <br/><br/>Trackpattern will help you reach your goal. By knowing your revenue growth overall, by product, and by customer segment, you can figure out where to optimize and reach the level you desire. </span></side-item>
 			<p>
 			If you knew who that top 20% were, you could give them some special attention and sell them a premium product. You could feel comfortable asking them for quality referrals. And imagine if you knew some more characteristics about them : what they've mostly bought in the past, what kind of pitch works well on them, and what promotions will make them buy. And if you know how you acquired them, you could find even more customers just like them. Quality customers.
 			</p>
@@ -222,7 +223,6 @@ Not to mention, you spend your energy on lots of expensive, time-consuming activ
 
 
 
-			<side-item><span class="stat">You want to make a certain income, but you're not there yet. <br/><br/>Trackpattern will help you reach your goal. By knowing your revenue growth overall, by product, and by customer segment, you can figure out where to optimize and reach the level you desire. </span></side-item>
 			<h2>
 			The best companies go through a lot of pain to get this 80/20 stuff measured. With Trackpattern, you don't have to
 			</h2>
@@ -238,6 +238,7 @@ Not to mention, you spend your energy on lots of expensive, time-consuming activ
 			<p>
 			They do it because it brings results. It makes them more money.
 			</p>
+			<side-item><span class="stat">If you want to start seriously kicking some ass, you don't need another marketing coach. You don't need to read more ebooks or take more masterclasses. Yes, those can help, but only marginally now that your biz is up and running. <br /><br /> If you've got as far as you have (even if you think you haven't gotten too far), that means you already have the talent, the dedication, and the expertise to take your business to a remarkable level. <br /><br/> All you need is the right tool. <br/><br/>Sign up now to try Trackpattern for free and find out why it's the perfect tool for you.  </span></side-item>
 			
 			<p>
 			It will make more money for your small business too, but you don't have the time to do all the crap they do. 
@@ -263,7 +264,6 @@ Not to mention, you spend your energy on lots of expensive, time-consuming activ
 			Trackpattern is a real intelligent (but easy-to-use) software that makes you more money and saves you time. 
 			</p>
 			
-			<side-item><span class="stat">If you want to start seriously kicking some ass, you don't need another marketing coach. You don't need to read more ebooks or take more masterclasses. Yes, those can help, but only marginally now that your biz is up and running. <br /><br /> If you've got as far as you have (even if you think you haven't gotten too far), that means you already have the talent, the dedication, and the expertise to take your business to a remarkable level. <br /><br/> All you need is the right tool. <br/><br/>Sign up now to try Trackpattern for free and find out why it's the perfect tool for you.  </span></side-item>
 	
 		</div>
 		<div class="clear"></div>
@@ -272,7 +272,7 @@ Not to mention, you spend your energy on lots of expensive, time-consuming activ
   		  <h2>
     		  Sign up as one of the first users of Trackpattern<br>
 		  <br />
-		  and use it for free
+		  and get it for free, plus consultations. 
    		 </h2>
 		 <input type="hidden" name="listname" value="trackpattern" />
    		 <input type="email" name="email" placeholder="Enter your email" id="email">
