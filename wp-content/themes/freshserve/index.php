@@ -17,7 +17,7 @@
 		<!-- <h1><?php //echo get_option($shortname.'_homepage_title'); ?></h1> -->
 		<!--  <p><?php //echo get_option($shortname.'_homepage_description'); ?></p> -->
 		
-		<h3>Here's How Trackpattern Will Increase Your Sales and Reduce Your Costs. Dramatically.</h3>
+		<h3>Trackpattern Will Increase Your Sales and Reduce Your Costs. Dramatically.</h3>
 		
 		<!--
 		<a href="<?php //echo fs_page_link(get_option($shortname.'_homepage_button_link')); ?>" class="button icon"><img src="<?php //bloginfo('template_url'); ?>/images/go_icon.png" alt="<?php //echo get_option($shortname.'_homepage_button_text'); ?>" /><span><?php //echo get_option($shortname.'_homepage_button_text'); ?></span></a>
