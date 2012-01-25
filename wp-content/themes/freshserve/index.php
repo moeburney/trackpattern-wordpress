@@ -120,11 +120,12 @@
 			Know the order in which products were bought, so you can spot patterns that lead to more sales.
 			</li>
 			<li>
-			Know the health of Your biz: track your revenue and customer engagement growth, so you can have a picture of how well your business is growing and how you can improve it. 
+			Know the health of your biz: track your revenue and customer engagement growth, so you can have a picture of how well your business is growing and how you can improve it. 
 			</li>
 			</ul>
 
 <br/>
+			<side-item><span class="stat">You want more conversions. You want more sales. <br/><br/>Trackpattern can increase your marketing ROI between 70% and 400% by identifying customer segments so you can market to your customers in a connection-building, targeted way.  </span></side-item>
 			<h2>If you run an online product or professional service business</h2> 
 
 			
@@ -146,7 +147,6 @@
 <p>Because you are only focused on selling. Indiscriminately. And you have to keep fighting the same uphill battle again and again: the battle of making conversions.
 			</p>
 			
-			<side-item><span class="stat">You want more conversions. You want more sales. <br/><br/>Trackpattern can increase your marketing ROI between 70% and 400% by identifying customer segments so you can market to your customers in a connection-building, targeted way.  </span></side-item>
 			<p>
 			So what do you do? You find yourself constantly reminding your subscribers about your product. Constantly trying to gain traffic and sign-ups. Constantly checking your aWeber or Mailchimp control panel for open rates. Constantly trying to find out ways to make the launch more successful. 
 			</p>
