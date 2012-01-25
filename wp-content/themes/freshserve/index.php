@@ -144,7 +144,6 @@
 			<p>
 			What lots biz of owners often don't realize is that this can become <span style="font-style:italic;">vicious</span> cycle. </p>
 
-			<side-item><span class="stat">You want to apply what you've learned from the marketing gurus about customer relationships...<br /> <br /> ...the stuff that Seth Godin, Naomi Dunford, and Sonia Simone write about on their blogs. <br /><br />Trackpattern is software that lets you directly apply those principles to your biz. </span></side-item>
 <p>Because you are only focused on selling. Indiscriminately. And you have to keep fighting the same uphill battle again and again: the battle of making conversions.
 			</p>
 			
@@ -154,6 +153,7 @@
 <p>
 Not to mention, you spend your energy on lots of expensive, time-consuming activities to acquire customers. Adwords, SEO, and all the rest.
 </p>
+			<side-item><span class="stat">You want to apply what you've learned from the marketing gurus about customer relationships...<br /> <br /> ...the stuff that Seth Godin, Naomi Dunford, and Sonia Simone write about on their blogs. <br /><br />Trackpattern is software that lets you directly apply those principles to your biz. </span></side-item>
 			
 			<h2>You could be making more money with less time</h2>
 			
