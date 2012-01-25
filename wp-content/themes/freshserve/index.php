@@ -86,7 +86,7 @@
 		<form id="subForm-side" action="http://www.aweber.com/scripts/addlead.pl" class="subForm-side">
 		<h2>Try Trackpattern For Free </h2> 
 
-	<p>Sign up now as an early user and we'll hook you up with 2 months free plus a free consultation. This won't be available to users that sign up later.  </p>
+	<p>Sign up now and we'll help you collect your data and give you as many free hours of consultation as you need. This won't be available to users that sign up later.  </p>
 		 <input type="hidden" name="listname" value="trackpattern" />
    		 <input type="email" name="email" placeholder="Enter your email" id="email">
 		<input type="hidden" name="redirect" value="http://www.trackpattern.com" />
@@ -271,7 +271,7 @@ Not to mention, you spend your energy on lots of expensive, time-consuming activ
 	<form action="" method="post" action="http://www.aweber.com/scripts/addlead.pl" id="subForm">
   		  <h2>
     		  Sign up as one of the first users of Trackpattern<br>
-		 and get 2 months free and plus a consultation <br />
+		 and get it for free, plus a consultation <br />
    		 </h2>
 		 <input type="hidden" name="listname" value="trackpattern" />
    		 <input type="email" name="email" placeholder="Enter your email" id="email">
