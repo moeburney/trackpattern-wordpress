@@ -98,32 +98,33 @@
    	 <input type="submit" value="Sign-up and get started"><br>
 </form></span></side-item>
 		<h2>
-			Here are some examples of how Trackpattern reports give you actionable, money making insights
+			Here's how Trackpattern reports give you actionable, money-making insights:
 			</h2>
+			<br/>
 			
 			<ul style="width:480px;">
 			
 			<li>
-			Know the top 20% of your customers: the awesome ones that will buy more expensive stuff, give you more referrals, spread your brand, and open To Having a strong connection with you
+			Know the top 20% of your customers: the awesome ones that will buy more of your stuff, give you more referrals, spread your brand, and grow your business. 
 			</li>
 			<li>
-			Know your "on the fence" customers: the ones that might buy again, but need a special push. If you don't take action, you will LOSE them to a competitor. Trackpattern will tell you who they are so you can take action and keep them, so they become part of your loyal customer base.
+			Know your "on the fence" customers: the ones that might buy again, but need a special push. If you don't take action, you will LOSE these customers. Trackpattern will tell you who they are so you can take action and keep them, so they become part of your loyal customer base.
 		</li>
 			<li>
-			Know which customers who haven't bought, so you don't waste too much money/time marketing to them
+			Know which customers haven't bought much of your stuff, so you don't waste too much money/time marketing to them.
 			</li>
 			<li>
-			Know what you need to know about each customer, and each segment
+			Know everything you need to know about each customer, and each customer segment. So you can market to each customer individually.
 			</li>
 			<li>
-			Know the order of how your stuff was bought, so you can decide what you sell best, and what caused people to buy again 
+			Know the order in which products were bought, so you can spot patterns that lead to more sales.
 			</li>
 			<li>
-			Know the health of Your biz: revenue and customer growth, so you can have a picture of how things are going
+			Know the health of Your biz: track your revenue and customer engagement growth, so you can have a picture of how well your business is growing and how you can improve it. 
 			</li>
 			</ul>
 
-
+<br/>
 			<h2>If you run an online product or professional service business</h2> 
 
 			
