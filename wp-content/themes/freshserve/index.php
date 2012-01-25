@@ -113,6 +113,7 @@
 			<li>
 			Know which customers haven't bought much of your stuff, so you don't waste too much money/time marketing to them.
 			</li>
+			<side-item><span class="stat">You want more conversions. You want more sales. <br/><br/>Trackpattern can increase your marketing ROI between 70% and 400% by identifying customer segments so you can market to your customers in a connection-building, targeted way.  </span></side-item>
 			<li>
 			Know everything you need to know about each customer, and each customer segment. So you can market to each customer individually.
 			</li>
@@ -125,7 +126,6 @@
 			</ul>
 
 <br/>
-			<side-item><span class="stat">You want more conversions. You want more sales. <br/><br/>Trackpattern can increase your marketing ROI between 70% and 400% by identifying customer segments so you can market to your customers in a connection-building, targeted way.  </span></side-item>
 			<h2>If you run an online product or professional service business</h2> 
 
 			
