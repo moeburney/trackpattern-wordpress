@@ -97,6 +97,33 @@
 
    	 <input type="submit" value="Sign-up and get started"><br>
 </form></span></side-item>
+		<h2>
+			Here are some examples of how Trackpattern reports give you actionable, money making insights
+			</h2>
+			
+			<ul style="width:480px;">
+			
+			<li>
+			Know the top 20% of your customers: the awesome ones that will buy more expensive stuff, give you more referrals, spread your brand, and open To Having a strong connection with you
+			</li>
+			<li>
+			Know your "on the fence" customers: the ones that might buy again, but need a special push. If you don't take action, you will LOSE them to a competitor. Trackpattern will tell you who they are so you can take action and keep them, so they become part of your loyal customer base.
+		</li>
+			<li>
+			Know which customers who haven't bought, so you don't waste too much money/time marketing to them
+			</li>
+			<li>
+			Know what you need to know about each customer, and each segment
+			</li>
+			<li>
+			Know the order of how your stuff was bought, so you can decide what you sell best, and what caused people to buy again 
+			</li>
+			<li>
+			Know the health of Your biz: revenue and customer growth, so you can have a picture of how things are going
+			</li>
+			</ul>
+
+
 			<h2>If you run an online product or professional service business</h2> 
 
 			
@@ -236,32 +263,7 @@ Not to mention, you spend your energy on lots of expensive, time-consuming activ
 			</p>
 			
 			<side-item><span class="stat">If you want to start seriously kicking some ass, you don't need another marketing coach. You don't need to read more ebooks or take more masterclasses. Yes, those can help, but only marginally now that your biz is up and running. <br /><br /> If you've got as far as you have (even if you think you haven't gotten too far), that means you already have the talent, the dedication, and the expertise to take your business to a remarkable level. <br /><br/> All you need is the right tool. <br/><br/>Sign up now to try Trackpattern for free and find out why it's the perfect tool for you.  </span></side-item>
-			<h2>
-			Here Are Some Examples of How Trackpattern Reports Give You Actionable, Money Making Insights
-			</h2>
-			
-			<ul style="width:480px;">
-			
-			<li>
-			Know The Top 20% of Your Customers: The Awesome Ones That Will Buy More Expensive Stuff, Give You More Referrals, Spread Your Brand, And Open To Having a Strong Connection With You
-			</li>
-			<li>
-			Know Your "On The Fence" Customers: The Ones That Might Buy again, But Need a Special Push. If you don't take action, you will LOSE them to a competitor. Trackpattern will tell you who they are so you can take action and keep them, so they become part of your loyal customer base.
-		</li>
-			<li>
-			Know Which Customers Who Haven't Bought, So You Don't Waste Too Much Money/Time Marketing To Them
-			</li>
-			<li>
-			Know What You Need to Know About Each Customer, and Each Segment
-			</li>
-			<li>
-			Know the Order of How Your Stuff Was Bought, So You Can Decide What You Sell Best, And What Caused People to Buy Again 
-			</li>
-			<li>
-			Know The Health of Your Biz: Revenue Growth, So You Can Have a Picture of How Things Are Going
-			</li>
-			</ul>
-
+	
 		</div>
 		<div class="clear"></div>
 	</div>
