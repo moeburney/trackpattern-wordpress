@@ -89,7 +89,7 @@
 	<p>Sign up now and we'll help you collect your data and give you as many free hours of consultation as you need. This won't be available to users that sign up later.  </p>
 		 <input type="hidden" name="listname" value="trackpattern" />
    		 <input type="email" name="email" placeholder="Enter your email" id="email">
-		<input type="hidden" name="redirect" value="http://www.trackpattern.com" />
+		<input type="hidden" name="redirect" value="http://www.trackpattern.com/thankyou/" />
 		<input type="hidden" name="meta_adtracking" value="custom form" />
 		<input type="hidden" name="meta_message" value="1" />
 		<input type="hidden" name="meta_required" value="email" />
@@ -275,6 +275,13 @@ Not to mention, you spend your energy on lots of expensive, time-consuming activ
    		 </h2>
 		 <input type="hidden" name="listname" value="trackpattern" />
    		 <input type="email" name="email" placeholder="Enter your email" id="email">
+		<input type="hidden" name="redirect" value="http://www.trackpattern.com/thankyou/" />
+		<input type="hidden" name="meta_adtracking" value="custom form" />
+		<input type="hidden" name="meta_message" value="1" />
+		<input type="hidden" name="meta_required" value="email" />
+		<input type="hidden" name="meta_forward_vars" value="1" />
+
+
    		 <input type="submit" value="Get Started!">
 		<br> <span style="font-size:12px; margin-top:20px;">Spam is not cool. We will never spam you or share your email address with others. </span>
   </form>
