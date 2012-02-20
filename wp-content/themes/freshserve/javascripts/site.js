@@ -1,4 +1,3 @@
-<script type="text/javascript">var _tid="e21ca42c873ea6d6cededce3de0dd9a7";(function(){var ts=document.createElement("script");ts.type="text/javascript";ts.async=true;ts.src="http://analytics.linkalert.io/la.js";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ts,s);})(); </script> 
 
 $(document).ready(function() {
 	
