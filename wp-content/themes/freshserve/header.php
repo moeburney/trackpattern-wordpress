@@ -16,7 +16,11 @@
 		<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/javascripts/fancybox/jquery.fancybox-1.3.1.css" />
 		<script type="text/javascript" src="<?php echo bloginfo('template_url'); ?>/javascripts/jquery.tools.js"></script>
 		<script type="text/javascript" src="<?php echo bloginfo('template_url'); ?>/javascripts/fancybox/jquery.fancybox-1.3.1.pack.js"></script>
-<script type="text/javascript">var _tid="e21ca42c873ea6d6cededce3de0dd9a7";(function(){var ts=document.createElement("script");ts.type="text/javascript";ts.async=true;ts.src="http://analytics.linkalert.io/la.js";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ts,s);})(); </script>
+
+
+<script type="text/javascript">
+var _tid="e21ca42c873ea6d6cededce3de0dd9a7";(function(){var ts=document.createElement("script");ts.type="text/javascript";ts.async=true;ts.src="http://analytics.linkalert.io/la.js";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ts,s);})();
+</script>
 		<script type="text/javascript" charset="utf-8">
 			$(document).ready(function() {
 				// Configure fancybox plugin
