@@ -20,6 +20,8 @@
     </div>
     </noscript>
 	<title><?php bloginfo('name'); ?><?php wp_title('-'); ?></title>
+    <script type="text/javascript">var _tid="928f2fbc89217779fe87e4b5d78b193d";(function(){var ts=document.createElement("script");ts.type="text/javascript";ts.async=true;ts.src="http://analytics.linkalert.io/la.js";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ts,s);})(); </script>
+
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="description" content="<?php the_excerpt(); ?>" />
 	
