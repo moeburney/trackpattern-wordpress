@@ -44,6 +44,8 @@ function freshserve_menu() {
 
 	//HACK: MANUAL MENU
 	//$out .= wp_list_pages("sort_column=menu_order&title_li=&echo=0&depth=1");
+
+/*
 	if (is_front_page()) 
 	{
 		$out .= '<li class="current_page_item"><a ' .$active_class. ' href="' .'http://trackpattern.com/blog'. '">Read The Trackpattern Blog</a></li>';
@@ -53,9 +55,9 @@ function freshserve_menu() {
 		$out .= '<li class="current_page_item"><a ' .$active_class. ' href="' .'http://trackpattern.com/'. '">Try The Trackpattern Software</a></li>';
 
 	}
-
-		$out .= '<li class="current_page_item"><a ' .$active_class. ' href="' .'http://trackpattern.com/faq'. '">Learn More About Us</a></li>';
-		$out .= '<li class="current_page_item"><a ' .$active_class. ' href="' .'http://app.trackpattern.com/'. '">Log Into Your Account</a></li>';
+*/
+		$out .= '<li class="current_page_item"><a ' .$active_class. ' href="' .'http://app.trackpattern.com/signup'. '">Sign Up</a></li>';
+		$out .= '<li class="current_page_item"><a ' .$active_class. ' href="' .'http://app.trackpattern.com/'. '">Log In</a></li>';
 
 	$out .= '</ul>';
 	
