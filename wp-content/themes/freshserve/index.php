@@ -11,13 +11,13 @@
 
 	<!-- Start App Info -->
 	<div class="info">
-		<h1>Make More Money From The Customers You Already Have</h1>
+		<h1 style="text-align:center;">Double Your Income By Ranking Your Customers<h1>
 		
 		
 		<!-- <h1><?php //echo get_option($shortname.'_homepage_title'); ?></h1> -->
 		<!--  <p><?php //echo get_option($shortname.'_homepage_description'); ?></p> -->
 		
-		<h3>Trackpattern Will Increase Your Sales and Reduce Your Costs. Dramatically.</h3>
+		<h3>Trackpattern saves you time and money with reports like these:</h3>
 		
 		<!--
 		<a href="<?php //echo fs_page_link(get_option($shortname.'_homepage_button_link')); ?>" class="button icon"><img src="<?php //bloginfo('template_url'); ?>/images/go_icon.png" alt="<?php //echo get_option($shortname.'_homepage_button_text'); ?>" /><span><?php //echo get_option($shortname.'_homepage_button_text'); ?></span></a>
@@ -71,7 +71,9 @@
 		<div class="clear"></div>
 	</div>
 	
-	
+	<div class="landing-block pitch-block">	
+	<a href="http://app.trackpattern.com/signup" class="button primary" style="text-decoration:none;">Create a Free Account</a>
+	</div>
 	<!-- <div id="features"> -->
 	<div id="writeup">
 		<?php 
@@ -81,12 +83,13 @@
 		?>
 		<div id="writeup-content">
 			
-
-			<side-item><span class="sideform">
+<!--
+			<side-item><span>
 		<form id="subForm-side" action="http://www.aweber.com/scripts/addlead.pl" method="post" class="subForm-side">
-		<h2>Try Trackpattern For Free </h2> 
+		<form id="subForm-side" action="http://app.trackpattern.com/signup" method="post" class="subForm-side">
+		<h2>Trackpattern is Free </h2> 
 
-	<p>Sign up now and we'll help you collect your data and give you as many free hours of consultation as you need. This won't be available to users that sign up later.  </p>
+	<p>And creating an account is easy.</p>
 		 <input type="hidden" name="listname" value="trackpattern" />
    		 <input type="email" name="email" placeholder="Enter your email" id="email">
 		<input type="hidden" name="redirect" value="http://www.trackpattern.com/thankyou/" />
@@ -95,8 +98,10 @@
 		<input type="hidden" name="meta_required" value="email" />
 		<input type="hidden" name="meta_forward_vars" value="1" />
 
-   	 <input type="submit" value="Sign-up and get started"><br>
+   	 <input type="button" value="Create a Free Account"><br>
 </form></span></side-item>
+-->
+			<side-item><span class="stat">You want more conversions. You want more sales. <br/><br/>Trackpattern can increase your marketing ROI between 70% and 400% by identifying customer segments so you can market to your customers in a connection-building, targeted way.  </span></side-item>
 		<h2>
 			Here's how Trackpattern reports give you actionable, money-making insights:
 			</h2>
@@ -125,9 +130,9 @@
 			</ul>
 
 <br/>
-			<h2>If you run an online product or professional service business</h2> 
+			<side-item><span class="stat">You want to apply what you've learned from the marketing gurus about customer relationships...<br /> <br /> ...the stuff that Seth Godin, Naomi Dunford, and Sonia Simone write about on their blogs. <br /><br />Trackpattern is software that lets you directly apply those principles to your biz. </span></side-item>
+			<h2>If you sell products or services online</h2> 
 
-			<side-item><span class="stat">You want more conversions. You want more sales. <br/><br/>Trackpattern can increase your marketing ROI between 70% and 400% by identifying customer segments so you can market to your customers in a connection-building, targeted way.  </span></side-item>
 			
 			<p>
 			and already have some customers or clients, your sales process typically works like this: you launch your product or service. Then you run campaigns to sell that product or service. 
@@ -153,8 +158,8 @@
 <p>
 Not to mention, you spend your energy on lots of expensive, time-consuming activities to acquire customers. Adwords, SEO, and all the rest.
 </p>
-			<side-item><span class="stat">You want to apply what you've learned from the marketing gurus about customer relationships...<br /> <br /> ...the stuff that Seth Godin, Naomi Dunford, and Sonia Simone write about on their blogs. <br /><br />Trackpattern is software that lets you directly apply those principles to your biz. </span></side-item>
 			
+			<side-item><span class="stat">You have a life outside of work. You want to spend less time doing the painful marketing stuff.  <br/><br/>Trackpattern will help you get your life back without sacrificing your income. By showing you the most important (and least important) clients, customers, and products so you can cut the fat from your biz and focus on doing what you love. </span></side-item>
 			<h2>You could be making more money with less time</h2>
 			
 			<p>
@@ -173,7 +178,6 @@ Not to mention, you spend your energy on lots of expensive, time-consuming activ
 			You know, the rule that we hear in marketing all the time: 80% of the results come from 20% of your stuff.  80% of your business comes from 20% of the customers. 80% of your profit comes from the top 20% of your products and services.
 			</p>
 			
-			<side-item><span class="stat">You have a life outside of work. You want to spend less time doing the painful marketing stuff.  <br/><br/>Trackpattern will help you get your life back without sacrificing your income. By showing you the most important (and least important) clients, customers, and products so you can cut the fat from your biz and focus on doing what you love. </span></side-item>
 			<p>
 			But figuring out that 20% -- the right 20% -- is not easy.
 			</p>
@@ -270,8 +274,7 @@ Not to mention, you spend your energy on lots of expensive, time-consuming activ
 	</div>
 	<form method="post" action="http://www.aweber.com/scripts/addlead.pl" id="subForm">
   		  <h2>
-    		  Sign up as one of the first users of Trackpattern<br>
-		  and get it for free. 
+		  Don't need the software but still interested in increasing your income? Sign up for the customer analytics newsletter
    		 </h2>
 		 <input type="hidden" name="listname" value="trackpattern" />
    		 <input type="email" name="email" placeholder="Enter your email" id="email">

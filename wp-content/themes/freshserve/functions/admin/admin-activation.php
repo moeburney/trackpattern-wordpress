@@ -61,7 +61,7 @@ if(get_option($shortname.'_screenshots_settings') == false) {
 		
 		update_option( $shortname.'_homepage_content', $homepage_content);
 		
-		update_option( $shortname.'_footer_copyright', "Copyright &copy; 2010 FreshServe.com. A ThemeForest theme.");
+		update_option( $shortname.'_footer_copyright', "Copyright &copy; 2012 trackpattern.com. ");
 	
 	}
 }
